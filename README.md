@@ -1,2 +1,2 @@
-# data-analysis-machine-learning
+# Data Analysis using Machine Learning
 Analysing Seismic Bumps Dataset
